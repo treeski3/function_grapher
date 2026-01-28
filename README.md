@@ -1,5 +1,4 @@
-# function_grapher — GitHub‑Optimized README (Unified Block)
-
+# function_grapher — README 
 A lightweight command-line tool for graphing mathematical functions using Python and matplotlib.  
 function_grapher provides an interactive CLI for visualizing linear, quadratic, and sine functions with user-defined parameters and ranges.
 
